@@ -4,7 +4,8 @@
 using namespace std;
 
 int main(){
-	int num=20;
+	int num;
+	cin>>num;
 	int* ptr=&num;
 	int** q=&ptr;
 	cout<<**q<<endl; //value of num

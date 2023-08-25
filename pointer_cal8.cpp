@@ -24,3 +24,4 @@ int main(){
     cin>>b;
     calculate(ptr1,ptr2);
 }
+

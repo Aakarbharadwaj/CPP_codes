@@ -1,5 +1,5 @@
 
-//itteratio example using for loop
+//itteration example using for loop
 
 #include<bits/stdc++.h>
 using namespace std;

@@ -6,7 +6,7 @@ int main(){
 	int num=20;
 	int* p=&num;
 	int** q=&p;
-    **q=51;
-    cout<<num;
+    **q=51; //modifying value of num
+    cout<<num; 
 
 }

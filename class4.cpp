@@ -21,7 +21,7 @@ class Rectangle{
 		}
 		
 		void area(){
-			result = width*height;
+			result=width*height;
 		}
 		
 		void display(){
